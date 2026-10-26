@@ -1,0 +1,14 @@
+# ---- KiCad ----
+# footprint cache, regenerated whenever the project opens
+fp-info-cache
+# lock files, present only while a project is open
+~*.lck
+*.bak
+*-backups/
+_autosave-*
+
+# ---- editors / OS ----
+# VS Code local history - duplicates every file many times over
+.history/
+.DS_Store
+Thumbs.db

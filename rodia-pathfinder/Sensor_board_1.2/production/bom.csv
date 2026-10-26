@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_3, _2, ",,3,,
+BZ1,Buzzer_12x9.5RM7.6,1,Buzzer,
+"D1, D2, D3",LED_D5.0mm,3,LED,
+"J1, J2, J3",PinSocket_1x06_P2.54mm_Vertical,3,Conn_01x06,
+J5,PinSocket_2x09_P2.54mm_Vertical,1,Conn_02x09_Odd_Even,
+J6,PinSocket_1x09_P2.54mm_Vertical,1,Conn_01x09,
