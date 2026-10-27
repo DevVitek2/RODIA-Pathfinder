@@ -15,7 +15,7 @@ Pathfinder is not meant to fly. It exists to prove the core of the design in har
 (MCU, power, flash, barometer, pyro channel) before the more demanding
 **RODIA** (*Rocket Onboard Drone Interface Avionics*) board is built.
 
-Full documentation (Czech, 19 pages): [`RODIA_Pathfinder_documentation_CZ.pdf`](RODIA_Pathfinder_documentation_CZ.pdf)
+Full documentation (Czech, 19 pages): [`MR_PCB2_DOCUM_FINAL.pdf`](MR_PCB2_DOCUM_FINAL.pdf)
 
 ## Board overview
 
@@ -29,10 +29,6 @@ Full documentation (Czech, 19 pages): [`RODIA_Pathfinder_documentation_CZ.pdf`](
 | Pyro channel | AO3400A MOSFET, powered directly from the battery, XT30 output (J5) |
 | Size | 40 × 40 mm, 1.6 mm, 2 layers, 3 × 2.5 mm mounting holes |
 | Expansion | J3 (2 × 9) and J4 (1 × 9) pin headers, 2.54 mm, for stacking boards |
-
-<p align="center">
-  <img src="images/architecture.png" alt="Block diagram" width="60%">
-</p>
 
 | 3D view, top | 3D view, bottom |
 |---|---|
@@ -60,7 +56,7 @@ Full schematic: [`images/schematic.pdf`](images/schematic.pdf)
 ```
 .
 ├── README.md
-├── RODIA_Pathfinder_documentation_CZ.pdf   full Pathfinder documentation (Czech)
+├── MR_PCB2_DOCUM_FINAL.pdf                 full Pathfinder documentation (Czech)
 ├── images/                                 renders, schematic blocks, copper layers
 ├── rodia-pathfinder/                       design files
 │   ├── AVIONICS.md                         pin map, SPI rules, firmware build, hardware status
